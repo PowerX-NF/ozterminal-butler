@@ -1,4 +1,4 @@
-# ozterminal-butler
+# OZTerminal-Butler
 this is OZTerminal v2 Made By Mike Butler Published By PowerXNF
 
 # ReadMe
